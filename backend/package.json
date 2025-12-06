@@ -1,5 +1,5 @@
 {
-  "name": "daybook",
+  "name": "notefolio",
   "version": "1.0.0",
   "description": "A MERN stack application to manage daily journals and tasks",
   "main": "src/index.js",
@@ -9,7 +9,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thenileshnishad/daybook.git"
   },
   "keywords": [
     "mern",
@@ -18,12 +17,10 @@
     "task",
     "management"
   ],
-  "author": "Nilesh Kumar Nishad",
+  "author": "Mohnish Vaide",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/thenileshnishad/daybook/issues"
-  },
-  "homepage": "https://github.com/thenileshnishad/daybook#readme",
+  
+ 
   "dependencies": {
     "bcryptjs": "^3.0.2",
     "cookie-parser": "^1.4.7",
